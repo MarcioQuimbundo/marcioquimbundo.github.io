@@ -113,6 +113,10 @@
             background-color: #4099ff;
         }
 
+        .youtube span {
+            background-color: #FF0000;
+        }
+
         .github span {
             background-color: #333;
         }
@@ -146,7 +150,9 @@
         .icon-button .fa.fa-linkedin {
             color: #4099ff;
         }
-
+        .icon-button .fa.fa-youtube {
+            color: #FF0000;
+        }
         .icon-button .fa.fa-github {
             color: #333;
         }
@@ -162,7 +168,9 @@
         .icon-button:hover .fa.fa-linkedin,
         .icon-button:hover .fa.fa-github,
         .icon-button:hover .fa.fa-twitter,
-        .icon-button:hover .fa.fa-facebook {
+        .icon-button:hover .fa.fa-facebook, 
+        .icon-button:hover .fa.fa-youtube
+         {
             color: white;
         }
 
