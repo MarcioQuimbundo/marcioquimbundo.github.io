@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 100" width="380" height="100">
+  <!-- Pin icon - larger version -->
+  <g id="pin-icon" transform="translate(15, 8)">
+    <!-- Main pin shape combining C and V -->
+    <path d="M 25 3 
+             C 30 3, 34 5, 37 8
+             C 39 11, 40 14, 40 18
+             L 40 32
+             C 40 37, 38 40, 35 42
+             C 33 44, 30 45, 27 45
+             L 20 45
+             C 15 45, 12 43, 9 40
+             C 7 38, 5 35, 5 32
+             L 5 23
+             C 5 18, 8 14, 11 11
+             C 14 8, 18 6, 21 4
+             C 22 3.5, 23 3, 25 3 Z" 
+          fill="#1a4d3f" stroke="none"/>
+    
+    <!-- Golden curved line (path/journey) through the pin -->
+    <path d="M 10 23 
+             Q 22 28, 35 23" 
+          stroke="#F1A501" 
+          stroke-width="4" 
+          fill="none" 
+          stroke-linecap="round"
+          stroke-linejoin="round"/>
+  </g>
+  
+  <!-- Chostours text in script style -->
+  <text x="60" y="50" 
+        font-family="'Brush Script MT', 'Lucida Handwriting', 'Segoe Script', cursive" 
+        font-size="42" 
+        font-weight="400" 
+        fill="#5E6282" 
+        letter-spacing="1.5">
+    Chostours
+  </text>
+  
+  <!-- Slogan: "Grandes viagens, Grandes memórias" -->
+  <text x="60" y="72" 
+        font-family="'Helvetica Neue', 'Arial', 'Segoe UI', sans-serif" 
+        font-size="14" 
+        font-weight="300" 
+        fill="#5E6282" 
+        letter-spacing="0.3">
+    Grandes viagens, Grandes memórias
+  </text>
+</svg>
